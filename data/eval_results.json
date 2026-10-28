@@ -1,0 +1,4 @@
+{'env': 'env1', 'agent': 'ppo_R1', 'bbpow mean': np.float64(0.007920049518551379), 'bbpow sd': np.float64(0.0028883431439200827), 'energy mean': np.float32(1157.2756), 'energy sd': np.float32(5.0259542)}
+{'env': 'env1', 'agent': 'ppo_R1', 'bbpow mean': np.float64(0.012166831279512503), 'bbpow sd': np.float64(0.006415762588643083), 'energy mean': np.float32(1172.2554), 'energy sd': np.float32(19.302366)}
+{'env': 'env1', 'agent': 'ppo_R1', 'bbpow mean': np.float64(0.007812117443737002), 'bbpow sd': np.float64(0.0021925133895289634), 'energy mean': np.float32(1191.9612), 'energy sd': np.float32(10.058059)}
+{'env': 'env1', 'agent': 'ppo_R1', 'bbpow mean': np.float64(0.007812117439709072), 'bbpow sd': np.float64(0.0021925133883329796), 'energy mean': np.float32(1191.9612), 'energy sd': np.float32(10.058059)}
